@@ -42,3 +42,9 @@ The is_file(filename) function is used to verify if the file exists. The load_da
 The main() function is where the constants INPUTFILE and OUTPUTFILE are defined. It loads the data from the input file, counts the nucleotide frequency, and processes the results to print the consensus sequence and store the output file.
 
 This program helps in verifying and validating the DNA sequences and finding the consensus sequence.
+
+**Academic Integrity**
+
+*Please note that copying these projects is strictly prohibited. The purpose of sharing these projects is for informational purposes only and to provide examples of coding projects. Any attempt to plagiarize or copy these projects is a violation of academic integrity and ethical standards. I cannot be held responsible for any consequences resulting from the misuse of these projects.*
+
+*It is important to develop your own coding skills and use these projects as a learning tool only. Please use the code responsibly and do not copy it for any reason. Thank you for your understanding.*
