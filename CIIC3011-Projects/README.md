@@ -1,4 +1,4 @@
-# Employee Payment Calculator
+# 1. Employee Payment Calculator
 
 This is a Python program that processes employee payment data stored in a text file and performs various operations on it, including calculating payments, finding employees with the most or least work hours, and finding employees with the highest or lowest rate.
 
@@ -32,3 +32,13 @@ This project was created as an assignment for a programming course and is not cu
 **License**
 
 This project is licensed under the MIT License. See the LICENSE.md file for details.
+
+# 2. DNA Consensus Sequence
+
+This program reads DNA sequences from an input file and finds the consensus sequence. It also creates an output file to store the counts per column, in order to validate the consensus.
+
+The is_file(filename) function is used to verify if the file exists. The load_data(filename) function reads the DNA sequences from the file and returns them as a list. The count_nucl_freq(dataList) function counts the occurrences of characters by column, and the find_consensus(countData) function returns the consensus sequence according to the highest-occurring nucleotides. The process_results(countData, outFilename) function prints the consensus to the screen and stores the results in the output file.
+
+The main() function is where the constants INPUTFILE and OUTPUTFILE are defined. It loads the data from the input file, counts the nucleotide frequency, and processes the results to print the consensus sequence and store the output file.
+
+This program helps in verifying and validating the DNA sequences and finding the consensus sequence.
